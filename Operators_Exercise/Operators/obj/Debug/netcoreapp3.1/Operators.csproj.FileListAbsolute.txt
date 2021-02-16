@@ -1,0 +1,13 @@
+C:\Users\johnd\Desktop\TA_repo\OperatorsApp\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+C:\Users\johnd\Desktop\TA_repo\OperatorsApp\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+C:\Users\johnd\Desktop\TA_repo\OperatorsApp\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+C:\Users\johnd\Desktop\TA_repo\OperatorsApp\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+C:\Users\johnd\Desktop\TA_repo\OperatorsApp\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+C:\Users\johnd\Desktop\TA_repo\OperatorsApp\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\johnd\Desktop\TA_repo\OperatorsApp\Operators\obj\Debug\netcoreapp3.1\Operators.csprojAssemblyReference.cache
+C:\Users\johnd\Desktop\TA_repo\OperatorsApp\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+C:\Users\johnd\Desktop\TA_repo\OperatorsApp\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+C:\Users\johnd\Desktop\TA_repo\OperatorsApp\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\TA_repo\OperatorsApp\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+C:\Users\johnd\Desktop\TA_repo\OperatorsApp\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\johnd\Desktop\TA_repo\OperatorsApp\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache
